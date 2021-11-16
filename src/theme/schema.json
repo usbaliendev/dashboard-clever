@@ -1,0 +1,30 @@
+{
+  "data" : {
+    "light" : {
+      "id": "T_001",
+      "name": "Light",
+      "colors": {
+        "icobckg": "#121212",
+        "base": "#F5F4F4",
+        "text": "#000000",
+        "mdColr": "#E1E0E0",
+        "maxColr": "#B8B7B7",
+        "ascColr": "#ED3C40"
+      },
+      "font": "Poppins"
+    },
+    "dark" : {
+      "id": "T_002",
+      "name": "Dark",
+      "colors": {
+        "icobckg": "#F5F4F4",
+        "base": "#121212",
+        "text": "#FFFFFF",
+        "mdColr": "#1B1B1B",
+        "maxColr": "#232323",
+        "ascColr": "#ED3C40"
+      },
+      "font": "Poppins"
+    }
+  }
+}
